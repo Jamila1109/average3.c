@@ -1,0 +1,1 @@
+# average3.c
